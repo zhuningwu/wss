@@ -4,7 +4,7 @@
   name="wss Maven Webapp"
   id="myeclipse.1494468594916"
   context-root="/wss"
-  j2ee-spec="6.0"
+  j2ee-spec="1.7"
   archive="wss Maven Webapp.war">
   <attributes>
     <attribute name="webrootdir" value="src/main/webapp" />
