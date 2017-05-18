@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="profiler.settings.instrument.empty.methods">true</entry>
+<entry key="ProfilerCPUSettings_profile_runnables">true</entry>
+<entry key="ProfilerCPUSettings_filter_type">2</entry>
+<entry key="ProfilerMemorySettings_track_every">10</entry>
+<entry key="ProfilerMemorySettings_mode">4</entry>
+<entry key="ProfilerCPUSettings_root_classes">com.uptolearn.wss.core.entity.**
+com.uptolearn.wss.core.feature.orm.dialect.**
+com.uptolearn.wss.core.feature.orm.mybatis.**
+com.uptolearn.wss.core.generic.**
+com.uptolearn.wss.core.util.**
+com.uptolearn.wss.web.controller.**
+com.uptolearn.wss.web.dao.**
+com.uptolearn.wss.web.model.**
+com.uptolearn.wss.web.security.**
+com.uptolearn.wss.web.service.**
+</entry>
+<entry key="ProfilerCPUSettings_filter_value">com.uptolearn.wss.core.entity.*,
+com.uptolearn.wss.core.feature.orm.dialect.*,
+com.uptolearn.wss.core.feature.orm.mybatis.*,
+com.uptolearn.wss.core.generic.*,
+com.uptolearn.wss.core.util.*,
+com.uptolearn.wss.web.controller.*,
+com.uptolearn.wss.web.dao.*,
+com.uptolearn.wss.web.model.*,
+com.uptolearn.wss.web.security.*,
+com.uptolearn.wss.web.service.*</entry>
+<entry key="profiler.settings.istrument.getter.setter.methods">true</entry>
+<entry key="myeclipse.profiling.mode">0</entry>
+<entry key="ProfilerMemorySettings_stacktraces">-1</entry>
+</properties>
